@@ -1,0 +1,43 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-image: url(https://www.as-tex.cz/fotky27770/materily/ulena-vz.95-ripstop.JPG);
+}
+
+.tlacitko{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.obr{
+    display: flex;
+    justify-content: center;
+}
+
+.radek{
+    display: flex;
+    justify-content: center;
+}
+
+.celek{
+    background-color: aliceblue;
+    padding: 200px;
+    border: 15px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
